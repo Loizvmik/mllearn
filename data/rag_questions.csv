@@ -1,0 +1,5 @@
+question_id,question,answer_doc_id
+q1,Почему нельзя использовать chargeback_seen_after_txn в FraudRadar?,rag_002
+q2,Какая основная метрика у LaptopPrice и почему?,rag_004
+q3,Какие метрики качества использует SupportBot?,rag_003
+q4,Какой threshold стоит у ChurnGuard?,rag_001

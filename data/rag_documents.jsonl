@@ -1,0 +1,6 @@
+{"doc_id": "rag_001", "title": "ChurnGuard model card", "text": "ChurnGuard predicts customer churn. The production threshold is 0.62 because recall is prioritized over precision. The model must not use post-cancellation signals."}
+{"doc_id": "rag_002", "title": "FraudRadar feature policy", "text": "FraudRadar is scored at transaction time. Chargeback fields are unavailable online and are forbidden features because they create data leakage."}
+{"doc_id": "rag_003", "title": "SupportBot evaluation", "text": "SupportBot answers are evaluated with faithfulness, answer relevance, context precision, and manual refusal-quality checks."}
+{"doc_id": "rag_004", "title": "LaptopPrice baseline", "text": "LaptopPrice uses MAE as the primary metric because several listings contain extreme outlier prices. RMSE is tracked as a secondary metric."}
+{"doc_id": "rag_005", "title": "AB test rules", "text": "Recommendation experiments use user-level randomization. The primary metric is orders per user, and revenue per user is a guardrail metric."}
+{"doc_id": "rag_006", "title": "Tokenizer note", "text": "The intent classifier uses subword tokenization so rare Russian word forms can be represented as combinations of known pieces."}

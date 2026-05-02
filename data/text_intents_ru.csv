@@ -1,0 +1,321 @@
+text_id,text,intent
+tech_support_007,ошибка при оплате,tech_support
+tech_support_070,приложение не открывается пожалуйста,tech_support
+refund_025,Как получить деньги обратно,refund
+refund_063,хочу оформить возврат,refund
+refund_009,хочу оформить возврат,refund
+delivery_030,Где мой заказ пожалуйста,delivery
+tech_support_026,ошибка при оплате пожалуйста,tech_support
+delivery_063,когда приедет доставка,delivery
+subscription_004,списалась оплата за подписку,subscription
+tech_support_064,Страница зависает после входа пожалуйста,tech_support
+delivery_010,курьер опаздывает,delivery
+refund_076,как получить деньги обратно пожалуйста,refund
+delivery_002,когда приедет доставка,delivery
+subscription_000,отключите подписку,subscription
+tech_support_012,не приходит код подтверждения,tech_support
+delivery_039,когда приедет доставка,delivery
+tech_support_042,ошибка при оплате пожалуйста,tech_support
+refund_077,Как получить деньги обратно,refund
+refund_055,Как получить деньги обратно пожалуйста,refund
+delivery_024,где мой заказ пожалуйста,delivery
+tech_support_043,Ошибка при оплате,tech_support
+tech_support_051,приложение не открывается,tech_support
+tech_support_038,Страница зависает после входа,tech_support
+delivery_059,когда приедет доставка,delivery
+refund_042,верните деньги за заказ,refund
+tech_support_053,приложение не открывается пожалуйста,tech_support
+subscription_057,списалась оплата за подписку пожалуйста,subscription
+refund_033,хочу оформить возврат пожалуйста,refund
+refund_073,верните деньги за заказ,refund
+tech_support_023,Страница зависает после входа,tech_support
+refund_075,верните деньги за заказ пожалуйста,refund
+refund_005,верните деньги за заказ,refund
+tech_support_008,ошибка при оплате,tech_support
+delivery_077,курьер опаздывает,delivery
+subscription_060,продлить премиум на месяц,subscription
+refund_078,"товар не подошел, нужен возврат пожалуйста",refund
+tech_support_016,страница зависает после входа пожалуйста,tech_support
+subscription_044,продлить премиум на месяц,subscription
+tech_support_062,ошибка при оплате пожалуйста,tech_support
+delivery_004,когда приедет доставка пожалуйста,delivery
+refund_007,Хочу оформить возврат,refund
+tech_support_033,ошибка при оплате пожалуйста,tech_support
+subscription_045,Продлить премиум на месяц пожалуйста,subscription
+subscription_041,отключите подписку,subscription
+refund_046,как получить деньги обратно,refund
+refund_003,как получить деньги обратно пожалуйста,refund
+subscription_020,списалась оплата за подписку пожалуйста,subscription
+tech_support_034,страница зависает после входа,tech_support
+tech_support_066,ошибка при оплате,tech_support
+tech_support_017,ошибка при оплате пожалуйста,tech_support
+refund_057,как получить деньги обратно,refund
+delivery_014,Когда приедет доставка,delivery
+subscription_049,списалась оплата за подписку,subscription
+refund_045,хочу оформить возврат пожалуйста,refund
+refund_017,хочу оформить возврат,refund
+tech_support_025,не приходит код подтверждения пожалуйста,tech_support
+subscription_028,как поменять тариф,subscription
+refund_060,как получить деньги обратно пожалуйста,refund
+refund_024,"товар не подошел, нужен возврат",refund
+delivery_034,курьер опаздывает пожалуйста,delivery
+tech_support_050,Ошибка при оплате,tech_support
+delivery_068,курьер опаздывает,delivery
+subscription_069,Отключите подписку пожалуйста,subscription
+subscription_018,отключите подписку пожалуйста,subscription
+delivery_052,Когда приедет доставка пожалуйста,delivery
+subscription_077,списалась оплата за подписку,subscription
+tech_support_074,приложение не открывается пожалуйста,tech_support
+subscription_072,отключите подписку пожалуйста,subscription
+tech_support_072,страница зависает после входа,tech_support
+delivery_044,Когда приедет доставка,delivery
+delivery_021,курьер опаздывает,delivery
+delivery_029,когда приедет доставка,delivery
+subscription_014,отключите подписку,subscription
+delivery_078,Курьер опаздывает,delivery
+subscription_040,списалась оплата за подписку пожалуйста,subscription
+refund_031,"товар не подошел, нужен возврат",refund
+subscription_022,продлить премиум на месяц,subscription
+tech_support_035,ошибка при оплате,tech_support
+delivery_066,когда приедет доставка,delivery
+tech_support_058,не приходит код подтверждения,tech_support
+delivery_013,изменить адрес доставки пожалуйста,delivery
+delivery_057,изменить адрес доставки,delivery
+refund_059,"товар не подошел, нужен возврат пожалуйста",refund
+delivery_036,когда приедет доставка пожалуйста,delivery
+refund_006,"товар не подошел, нужен возврат пожалуйста",refund
+tech_support_036,приложение не открывается,tech_support
+refund_030,"товар не подошел, нужен возврат",refund
+refund_022,верните деньги за заказ,refund
+subscription_032,отключите подписку пожалуйста,subscription
+subscription_048,продлить премиум на месяц,subscription
+refund_056,верните деньги за заказ,refund
+tech_support_005,страница зависает после входа,tech_support
+delivery_038,изменить адрес доставки пожалуйста,delivery
+tech_support_044,не приходит код подтверждения пожалуйста,tech_support
+delivery_001,когда приедет доставка,delivery
+delivery_065,курьер опаздывает пожалуйста,delivery
+refund_039,Как получить деньги обратно,refund
+tech_support_059,ошибка при оплате,tech_support
+delivery_067,где мой заказ пожалуйста,delivery
+tech_support_021,Приложение не открывается,tech_support
+subscription_075,как поменять тариф,subscription
+delivery_028,когда приедет доставка,delivery
+subscription_029,как поменять тариф,subscription
+refund_066,"товар не подошел, нужен возврат пожалуйста",refund
+tech_support_037,ошибка при оплате,tech_support
+refund_018,как получить деньги обратно,refund
+tech_support_024,ошибка при оплате,tech_support
+delivery_033,когда приедет доставка,delivery
+refund_019,верните деньги за заказ,refund
+tech_support_022,страница зависает после входа,tech_support
+delivery_012,где мой заказ,delivery
+refund_079,как получить деньги обратно,refund
+tech_support_060,ошибка при оплате,tech_support
+delivery_072,Где мой заказ пожалуйста,delivery
+refund_072,Верните деньги за заказ пожалуйста,refund
+delivery_016,Изменить адрес доставки,delivery
+refund_015,верните деньги за заказ пожалуйста,refund
+delivery_031,когда приедет доставка,delivery
+refund_010,Как получить деньги обратно,refund
+tech_support_020,приложение не открывается,tech_support
+refund_069,как получить деньги обратно пожалуйста,refund
+delivery_017,Когда приедет доставка,delivery
+subscription_061,Как поменять тариф пожалуйста,subscription
+refund_068,Верните деньги за заказ пожалуйста,refund
+subscription_015,Продлить премиум на месяц,subscription
+refund_037,как получить деньги обратно,refund
+delivery_046,где мой заказ пожалуйста,delivery
+refund_016,хочу оформить возврат,refund
+tech_support_068,ошибка при оплате,tech_support
+refund_067,"товар не подошел, нужен возврат",refund
+subscription_016,Продлить премиум на месяц,subscription
+subscription_007,списалась оплата за подписку пожалуйста,subscription
+delivery_045,где мой заказ пожалуйста,delivery
+tech_support_004,приложение не открывается,tech_support
+delivery_006,когда приедет доставка,delivery
+subscription_064,отключите подписку пожалуйста,subscription
+delivery_064,изменить адрес доставки пожалуйста,delivery
+subscription_031,как поменять тариф,subscription
+delivery_060,где мой заказ,delivery
+tech_support_073,страница зависает после входа,tech_support
+subscription_059,списалась оплата за подписку,subscription
+tech_support_048,страница зависает после входа,tech_support
+subscription_066,Списалась оплата за подписку пожалуйста,subscription
+tech_support_046,приложение не открывается,tech_support
+delivery_049,курьер опаздывает пожалуйста,delivery
+refund_038,верните деньги за заказ пожалуйста,refund
+tech_support_061,Приложение не открывается,tech_support
+subscription_063,отключите подписку,subscription
+delivery_075,курьер опаздывает,delivery
+delivery_032,курьер опаздывает пожалуйста,delivery
+subscription_027,Как поменять тариф пожалуйста,subscription
+delivery_037,Когда приедет доставка пожалуйста,delivery
+subscription_056,отключите подписку,subscription
+subscription_068,списалась оплата за подписку,subscription
+subscription_050,отключите подписку,subscription
+tech_support_015,приложение не открывается,tech_support
+tech_support_039,ошибка при оплате пожалуйста,tech_support
+delivery_074,где мой заказ,delivery
+subscription_062,продлить премиум на месяц,subscription
+refund_002,как получить деньги обратно,refund
+delivery_035,изменить адрес доставки пожалуйста,delivery
+tech_support_003,приложение не открывается,tech_support
+tech_support_063,Ошибка при оплате,tech_support
+delivery_040,когда приедет доставка,delivery
+tech_support_079,не приходит код подтверждения,tech_support
+subscription_037,списалась оплата за подписку,subscription
+delivery_047,где мой заказ пожалуйста,delivery
+refund_074,хочу оформить возврат,refund
+refund_029,"товар не подошел, нужен возврат",refund
+delivery_003,когда приедет доставка пожалуйста,delivery
+subscription_025,отключите подписку пожалуйста,subscription
+delivery_027,когда приедет доставка пожалуйста,delivery
+tech_support_013,приложение не открывается пожалуйста,tech_support
+tech_support_019,приложение не открывается,tech_support
+delivery_053,когда приедет доставка,delivery
+subscription_013,Списалась оплата за подписку,subscription
+subscription_005,отключите подписку,subscription
+subscription_055,как поменять тариф пожалуйста,subscription
+refund_065,"товар не подошел, нужен возврат",refund
+tech_support_065,Страница зависает после входа,tech_support
+delivery_005,изменить адрес доставки пожалуйста,delivery
+subscription_002,отключите подписку пожалуйста,subscription
+delivery_079,Когда приедет доставка,delivery
+refund_012,Верните деньги за заказ пожалуйста,refund
+refund_035,как получить деньги обратно,refund
+refund_028,как получить деньги обратно,refund
+tech_support_010,Ошибка при оплате пожалуйста,tech_support
+delivery_062,изменить адрес доставки пожалуйста,delivery
+subscription_026,как поменять тариф,subscription
+delivery_051,изменить адрес доставки,delivery
+tech_support_049,приложение не открывается,tech_support
+refund_051,Верните деньги за заказ пожалуйста,refund
+delivery_015,Изменить адрес доставки,delivery
+tech_support_078,ошибка при оплате,tech_support
+tech_support_018,не приходит код подтверждения,tech_support
+subscription_010,Отключите подписку пожалуйста,subscription
+refund_041,"товар не подошел, нужен возврат пожалуйста",refund
+delivery_009,где мой заказ пожалуйста,delivery
+subscription_006,отключите подписку пожалуйста,subscription
+delivery_056,когда приедет доставка,delivery
+refund_026,хочу оформить возврат,refund
+subscription_073,отключите подписку пожалуйста,subscription
+delivery_061,где мой заказ,delivery
+tech_support_067,Приложение не открывается,tech_support
+refund_000,верните деньги за заказ пожалуйста,refund
+subscription_047,продлить премиум на месяц,subscription
+subscription_034,списалась оплата за подписку,subscription
+subscription_051,как поменять тариф,subscription
+delivery_020,изменить адрес доставки,delivery
+tech_support_032,Ошибка при оплате,tech_support
+subscription_035,как поменять тариф,subscription
+delivery_023,когда приедет доставка,delivery
+tech_support_011,ошибка при оплате,tech_support
+delivery_018,когда приедет доставка,delivery
+refund_036,хочу оформить возврат,refund
+subscription_009,Продлить премиум на месяц,subscription
+refund_061,хочу оформить возврат,refund
+delivery_070,изменить адрес доставки,delivery
+refund_047,Как получить деньги обратно,refund
+tech_support_069,не приходит код подтверждения пожалуйста,tech_support
+subscription_039,отключите подписку,subscription
+refund_011,верните деньги за заказ,refund
+subscription_076,как поменять тариф,subscription
+tech_support_040,ошибка при оплате,tech_support
+subscription_046,Продлить премиум на месяц пожалуйста,subscription
+refund_027,верните деньги за заказ,refund
+subscription_008,продлить премиум на месяц,subscription
+refund_004,верните деньги за заказ,refund
+delivery_042,где мой заказ пожалуйста,delivery
+refund_032,верните деньги за заказ,refund
+tech_support_071,не приходит код подтверждения пожалуйста,tech_support
+tech_support_002,ошибка при оплате пожалуйста,tech_support
+tech_support_077,страница зависает после входа пожалуйста,tech_support
+subscription_043,списалась оплата за подписку,subscription
+delivery_058,где мой заказ,delivery
+refund_062,хочу оформить возврат пожалуйста,refund
+tech_support_055,страница зависает после входа,tech_support
+delivery_055,когда приедет доставка,delivery
+subscription_058,как поменять тариф,subscription
+delivery_048,курьер опаздывает пожалуйста,delivery
+subscription_070,продлить премиум на месяц пожалуйста,subscription
+refund_008,"Товар не подошел, нужен возврат",refund
+refund_070,хочу оформить возврат,refund
+subscription_042,как поменять тариф пожалуйста,subscription
+refund_064,как получить деньги обратно,refund
+refund_044,Верните деньги за заказ пожалуйста,refund
+refund_014,как получить деньги обратно,refund
+delivery_076,когда приедет доставка,delivery
+refund_040,"товар не подошел, нужен возврат пожалуйста",refund
+subscription_065,продлить премиум на месяц,subscription
+delivery_043,Где мой заказ,delivery
+subscription_054,продлить премиум на месяц,subscription
+subscription_021,как поменять тариф,subscription
+tech_support_056,приложение не открывается,tech_support
+delivery_073,изменить адрес доставки,delivery
+refund_023,как получить деньги обратно пожалуйста,refund
+subscription_038,списалась оплата за подписку пожалуйста,subscription
+tech_support_076,Приложение не открывается,tech_support
+tech_support_047,ошибка при оплате пожалуйста,tech_support
+tech_support_052,Приложение не открывается,tech_support
+subscription_052,отключите подписку,subscription
+subscription_011,отключите подписку,subscription
+subscription_071,списалась оплата за подписку,subscription
+tech_support_041,ошибка при оплате,tech_support
+tech_support_001,страница зависает после входа,tech_support
+refund_043,"товар не подошел, нужен возврат",refund
+tech_support_057,страница зависает после входа пожалуйста,tech_support
+tech_support_030,Страница зависает после входа пожалуйста,tech_support
+subscription_019,Отключите подписку,subscription
+delivery_025,Изменить адрес доставки,delivery
+refund_053,Как получить деньги обратно пожалуйста,refund
+refund_001,Как получить деньги обратно,refund
+refund_049,как получить деньги обратно пожалуйста,refund
+delivery_000,изменить адрес доставки,delivery
+tech_support_045,не приходит код подтверждения пожалуйста,tech_support
+refund_034,как получить деньги обратно пожалуйста,refund
+subscription_023,как поменять тариф,subscription
+delivery_011,изменить адрес доставки,delivery
+refund_052,"товар не подошел, нужен возврат",refund
+subscription_024,продлить премиум на месяц,subscription
+subscription_001,списалась оплата за подписку,subscription
+refund_013,хочу оформить возврат,refund
+delivery_008,Когда приедет доставка,delivery
+subscription_033,списалась оплата за подписку,subscription
+tech_support_006,не приходит код подтверждения пожалуйста,tech_support
+subscription_074,как поменять тариф,subscription
+delivery_054,изменить адрес доставки,delivery
+subscription_067,списалась оплата за подписку,subscription
+subscription_003,продлить премиум на месяц пожалуйста,subscription
+refund_054,верните деньги за заказ,refund
+refund_050,Как получить деньги обратно,refund
+tech_support_014,Ошибка при оплате,tech_support
+tech_support_029,не приходит код подтверждения,tech_support
+subscription_078,продлить премиум на месяц пожалуйста,subscription
+tech_support_027,ошибка при оплате,tech_support
+tech_support_009,приложение не открывается пожалуйста,tech_support
+refund_058,хочу оформить возврат пожалуйста,refund
+refund_048,верните деньги за заказ,refund
+tech_support_075,не приходит код подтверждения,tech_support
+subscription_012,списалась оплата за подписку пожалуйста,subscription
+refund_021,хочу оформить возврат,refund
+tech_support_000,не приходит код подтверждения пожалуйста,tech_support
+subscription_036,Как поменять тариф,subscription
+tech_support_031,ошибка при оплате,tech_support
+subscription_053,продлить премиум на месяц пожалуйста,subscription
+subscription_017,как поменять тариф пожалуйста,subscription
+delivery_069,где мой заказ,delivery
+delivery_050,когда приедет доставка,delivery
+delivery_071,когда приедет доставка пожалуйста,delivery
+delivery_019,курьер опаздывает,delivery
+delivery_007,Когда приедет доставка,delivery
+tech_support_054,Не приходит код подтверждения пожалуйста,tech_support
+delivery_041,где мой заказ,delivery
+subscription_079,Списалась оплата за подписку,subscription
+refund_020,хочу оформить возврат,refund
+tech_support_028,не приходит код подтверждения пожалуйста,tech_support
+refund_071,как получить деньги обратно,refund
+delivery_026,где мой заказ,delivery
+subscription_030,продлить премиум на месяц,subscription
+delivery_022,когда приедет доставка пожалуйста,delivery
