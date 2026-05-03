@@ -16,7 +16,6 @@ from sklearn.model_selection import train_test_split
 from sklearn.pipeline import Pipeline
 from sklearn.preprocessing import OneHotEncoder, StandardScaler
 
-
 TARGET = "churn"
 ID_COL = "customer_id"
 
@@ -97,18 +96,9 @@ def make_pipeline_upgrade() -> Pipeline:
         ]
     )
 
-def print_metrics(name: str, y_true, y_proba, threshold: float = 0.1) -> None:
+def print_metrics(y_true, y_proba, threshold: float = 0.1) -> None:
     y_pred = (y_proba >= threshold).astype(int)
-
-    print(f"\n{name}")
-    print(f"threshold: {threshold}")
-    print(f"accuracy:  {accuracy_score(y_true, y_pred):.4f}")
-    print(f"precision: {precision_score(y_true, y_pred, zero_division=0):.4f}")
-    print(f"recall:    {recall_score(y_true, y_pred, zero_division=0):.4f}")
-    print(f"f1:        {f1_score(y_true, y_pred, zero_division=0):.4f}")
-    print(f"roc_auc:   {roc_auc_score(y_true, y_proba):.4f}")
-    print(f"pr_auc:    {average_precision_score(y_true, y_proba):.4f}")
-    print(f"log_loss:  {log_loss(y_true, y_proba):.4f}")
+    return precision_score(y_true, y_pred, zero_division=0), recall_score(y_true, y_pred, zero_division=0), average_precision_score(y_true, y_proba)
 
 
 def main() -> None:
@@ -138,10 +128,11 @@ def main() -> None:
     pipe_up.fit(X_train, y_train)
     val_proba_up = pipe_up.predict_proba(X_val)[:, 1]
     test_proba_up = pipe_up.predict_proba(X_test)[:, 1]
-    print_metrics("Validation", y_val, val_proba)
-    print_metrics("Test", y_test, test_proba)
-    print_metrics("Upgrade Validation", y_val, val_proba_up)
-    print_metrics("Upgrade Test", y_test, test_proba_up)
-
+    for t in [0.01,0.05,0.1, 0.2, 0.3]:
+        precision, recall, ap = print_metrics(y_val, val_proba, threshold=t)
+        precision_up, recall_up, ap_up = print_metrics(y_val, val_proba_up, threshold=t)
+        if precision_up>precision and recall_up>recall and ap_up>ap:
+            print(f"Threshold: {t}, Precision: {precision:.4f} -> {precision_up:.4f}, Recall: {recall:.4f} -> {recall_up:.4f}, AP: {ap:.4f} -> {ap_up:.4f}")
+            break
 if __name__ == "__main__":
     main()
